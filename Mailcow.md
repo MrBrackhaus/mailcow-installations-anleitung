@@ -18,7 +18,7 @@ output:
 
 ---
 
-\begin{center} \includegraphics[width=1.0\textwidth]{S:/Dokumentationen/Titelbild.png} \end{center}
+![Titelbild](https://github.com/user-attachments/assets/6187803c-8104-48d1-a319-4b2f797dabcb)
 
 ## Danksagung
 
