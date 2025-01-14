@@ -84,5 +84,5 @@ Bei Fragen oder Anregungen kannst du mich über GitHub kontaktieren.
 
 ---
 
-> **Hinweis:** Dieses Repository dient als Ergänzung zur offiziellen Mailcow-Dokumentation und wird regelmäßig aktualisiert.
+> **Hinweis:** Dieses Repository dient als private Ergänzung zur offiziellen Mailcow-Dokumentation und wird regelmäßig aktualisiert.
 
